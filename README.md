@@ -2,11 +2,7 @@
 
 # 💎 Коллекция минералов 
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)](https://docs.python.org/3/library/tkinter.html)
-[![Pillow](https://img.shields.io/badge/Image-Pillow-orange)](https://pillow.readthedocs.io/)
-
-> 🧪 Десктопное приложение на Python для просмотра коллекции минералов с красивым интерфейсом, изображениями и характеристиками.
+> 🧪 Десктопное приложение на Python для просмотра коллекции минералов с красивым интерфейсом, изображениями и характеристиками
 
 ---
 
